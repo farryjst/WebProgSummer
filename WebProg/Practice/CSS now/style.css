@@ -1,0 +1,22 @@
+body {
+		background-color: blue;
+}
+h1 {
+		background-color: yellow;
+		color: blue;
+		border: 1px white solid;
+}
+p {
+		color: yellow;
+}
+h2 {
+		color: yellow;
+}
+.class1 {
+		background: red;
+		color: white;
+}
+#id1 {
+		background-color: green;
+		color: aqua;
+}
